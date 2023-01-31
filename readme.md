@@ -10,9 +10,9 @@ Nesta aplicação, temos as informações dos primeiros 151 pokémons como: nome
 
 :green_circle: Concluído
 
-## Build
+## Development server
 
-Execute `http-server ./` para buildar este projeto.
+Execute `http-server ./` para subir um dev server. Acesse `http://127.0.0.1:8080`. A aplicação irá recarregar automaticamente se forem fetias quaisquer alterações nos arquivos source.
 
 ## Imagens da aplicação
 
