@@ -10,6 +10,10 @@ Nesta aplicação, temos as informações dos primeiros 151 pokémons como: nome
 
 :green_circle: Concluído
 
+## Build
+
+Execute `http-server ./` para buildar este projeto.
+
 ## Imagens da aplicação
 
 ![image](https://user-images.githubusercontent.com/45274949/215585272-e01d019c-4b19-4898-920c-210ad8c3fba2.png)
