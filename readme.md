@@ -1,6 +1,6 @@
 # Pokédex
 
-A Pokédex é uma enciclopédia para catálogar as diversas espécies do mundo Pokémon. 
+A Pokédex é uma enciclopédia para catalogar as diversas espécies do mundo Pokémon. 
 
 Este projeto faz parte do Bootcamp Cloud Fullstack - Warburg Pincus da DIO (Digital Innovation One).
 
