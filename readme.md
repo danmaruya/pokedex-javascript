@@ -26,5 +26,5 @@ Execute `http-server ./` para subir um dev server. Acesse `http://127.0.0.1:8080
 - Visual Studio Code
 
 ## Autor
-[<img src="https://media.licdn.com/dms/image/C4E03AQFdkf8iAY7q9A/profile-displayphoto-shrink_200_200/0/1621365813609?e=1680739200&v=beta&t=lbkIHJ7nAHxDwlvL7OpFFI9Q_-p0VrfjBLSPYe94jWk" width=115><br><sub>Daniel Kenji Maruya</sub>](https://www.linkedin.com/in/daniel-kenji-maruya/)
+[<img src="media.licdn.com/dms/image/C4E03AQFdkf8iAY7q9A/profile-displayphoto-shrink_800_800/0/1621365813609?e=1686787200&v=beta&t=_7n7sA_sL6mgavUFZong0tgqTIrbejTVjaMQ0yJpZAc" width=115><br><sub>Daniel Kenji Maruya</sub>](https://www.linkedin.com/in/daniel-kenji-maruya/)
 :---:
